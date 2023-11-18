@@ -5,8 +5,6 @@ import Data.List (group)
 
 -- Defina as seguintes funções USANDO recursão.
 
-
-
 {- 
 Nos seguintes exercícios, implemente suas soluções de forma recursiva
 Defina os tipos das funções.
